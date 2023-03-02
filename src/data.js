@@ -6,7 +6,7 @@ export default [
         date: "October 2019",
         description: "The big Apple, new york city, one of USA's most popular and well known city in the whole world. Home to Times Square, towering skyscrapers, and many districts of endless energy.", 
         personalNote: "I went with my Cousin and godmother and they loved it, we even went to Liberty Island.",  
-        imageUrl: "https://static.dezeen.com/uploads/2017/04/times-square-new-york-redesign-pedestrian-area-snohetta-midtown-manhattan-opening_dezeen_sq.jpg"
+        imageUrl: "https://media.cntraveler.com/photos/611fc0aced1e8a109123ec48/master/w_3000,h_2001,c_limit/Broadway,-New-York_GettyImages-588653038.jpg"
     },
     {
         title: "Legoland",
