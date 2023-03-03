@@ -55,7 +55,7 @@ export default [
     },
     {
         id: 7,
-        title: "National Aquarium,",
+        title: "National Aquarium",
         location: "Baltimore, Maryland, USA", 
         googleMapsUrl: "https://goo.gl/maps/DtmXmnVXPJBCaMji7",
         date: "February 2023", 
