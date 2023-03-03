@@ -5,7 +5,7 @@ import Header from './Header'
 import Footer from './Footer'
 
 export default function App() {
-  const cards = data.map(item => {
+  const cards = data.reverse().map(item => {
     return (
         <Card 
       imageUrl={item.imageUrl}
@@ -13,14 +13,14 @@ export default function App() {
       location={item.location}
       googleMapsUrl={item.googleMapsUrl}
       date={item.date}
-      personalNotes={item.personalNote}
+      description={item.description}
     />
     
     )
   })
   
   return (
-    <div>
+    <div className='m-auto'>
         <Header />
         {cards}
         <Footer />
